@@ -5,5 +5,5 @@ if (a % 2 == 1):
         if (a % 3 == 0):
             print(int(a / 3))
 
-else:
+if(a % 3 == 0):
     print(int(a/3))
